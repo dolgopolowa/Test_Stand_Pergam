@@ -1,0 +1,2450 @@
+Added Component: Designator=C1(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 2.2uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 2.2uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10UF ±10% 10V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10UF ±10% 10V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0805C)
+Add component (AddParameter): Name = "Added_by"; Value = "anton@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "10/01/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 0.1UF ±10% 50V X7R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100UF ±10% 16V X7R 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100UF ±10% 16V X7R 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C17(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C18(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C19(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C20(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C23(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C24(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C25(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C26(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C27(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C28(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C29(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C30(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 4.7UF ±10% 25V X5R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C31(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 4.7UF ±10% 25V X5R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C32(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 4.7UF ±10% 25V X5R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C33(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 4.7UF ±10% 25V X5R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C34(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 4.7UF ±10% 25V X5R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C35(0805C)
+Add component (AddParameter): Name = "Added_by"; Value = "anton@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "10/01/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 0.1UF ±10% 50V X7R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C36(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 10UF ±10% 10V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C37(0805C)
+Add component (AddParameter): Name = "Added_by"; Value = "anton@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "10/01/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 0.1UF ±10% 50V X7R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C38(0402C)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@Mail.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "27/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 100nF ±10% 50V X5R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C39(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C40(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C41(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C42(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=C43(0603C)
+Add component (AddParameter): Name = "Added_by"; Value = "grebelny_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1uF ±10% 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(TSSOP-17)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM43603PWPR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "MSE 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM43603QWPR"; VariantName = "[No Variations]"
+Added Component: Designator=DA2(TSSOP-17)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM43603PWPR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "MSE 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM43603QWPR"; VariantName = "[No Variations]"
+Added Component: Designator=DA3(SC-70-6)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "02/02/2022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "INA210AIDCKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SC70-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "6"; VariantName = "[No Variations]"
+Added Component: Designator=DA4(MSOP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ADP3333ARMZ-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "8-Lead MSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=DA5(MSOP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AD8066ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "MSOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=DA6(MSOP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AD8066ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "MSOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=DA7(TSSOP-16)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ADM3202ARU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "TSSOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=DA8(MSOP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AD8066ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "MSOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=DA9(MSOP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AD8066ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "MSOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=DA10(MSOP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AD8066ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "MSOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SOP8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountStyle"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CH340N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IHLP2020CZ-01)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "14/05/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IHLP2020BZER3R3M01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "IHLP-2020BZ-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IHLP2020CZ-01)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "14/05/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IHLP2020BZER3R3M01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "IHLP-2020BZ-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=MUX1(SOIC-28)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MPC506A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder Amount"; Value = "28"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 20 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 24R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 18.2 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 18.2 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R1206)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "07/11/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TL2BR018F SMD RES 0.018 OHM 1% ±75ppm/∞C 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 8.2 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1.2 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 40.2K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 2.7 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R33(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R34(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R35(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R36(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R37(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R38(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R39(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 24R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 24R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 24R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R47(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R48(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R49(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 24R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R50(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 24R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 24R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R53(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R54(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R55(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 33R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R56(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 33R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R57(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 33R OHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R58(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R59(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R60(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R61(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R62(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R63(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R64(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R65(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R66(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R67(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R68(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R69(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R70(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R71(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R72(SQP-10)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 3R 1% ±300ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SQP-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R73(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R74(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R75(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R76(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 20 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R77(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R78(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R79(SQP-10)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 3R 1% ±300ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SQP-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R80(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R81(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R82(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "Rutel@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "21/04/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 100 KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R83(R0402)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "15/12/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 56K KOHM 1% ±100ppm/∞C 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/06/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(SMA-FL)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29.10.24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MBRAF1540T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SMA-FL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/06/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/06/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/06/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/06/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/06/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/06/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "ma_lubushkin@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "03/12/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "ma_lubushkin@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "03/12/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "ma_lubushkin@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "03/12/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "ma_lubushkin@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "03/12/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "ma_lubushkin@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "03/12/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VT6(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "ma_lubushkin@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "03/12/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VT7(SOT-23-3)
+Add component (AddParameter): Name = "Added_by"; Value = "ma_lubushkin@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "03/12/2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP2(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP3(PLS-2)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cable/Wire"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Terminals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP5(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP6(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP7(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP8(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP9(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP10(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP11(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP12(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP13(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP14(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP15(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP16(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP17(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP18(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP19(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP20(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP21(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP22(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP23(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP24(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP25(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP26(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP27(pogo pin P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP28(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP29(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP30(pogo pin P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP31(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP32(Black pill STM32F411CEU6)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountStyle"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=XP33(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP34(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP35(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP36(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP37(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP38(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP39(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP40(PLS-4)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cable/Wire"; Value = "Ã√“‘ 0,35 Í‚.ÏÏ √Œ—“"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part"; Value = "BLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Terminals"; Value = "BL-T (DS-1071)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=XP41(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP42(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP43(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP44(BH-20)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DS1013-20SSiB1-B-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderAmount"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=XP45(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP46(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP47(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP48(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-A2 / P100-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP49(20021111-00010T4LF)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cable/Wire"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Terminals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "20021111-00010T4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "20021111-00010T4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=XP50(POGO PIN P100-A2/B1)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P100-B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP51(BH-20)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DS1013-20SSiB1-B-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderAmount"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=XS2(DS1126)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cable/Wire"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Terminals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DS1126"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "RJ-45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "12"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(PLD-24)
+Add component (AddParameter): Name = "Added_by"; Value = "andrew@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cable/Wire"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "1/09/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Terminals"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLD-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "PLD-24 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "24"; VariantName = "[No Variations]"
+Added Component: Designator=XS4(292304-1)
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "292304-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PKG"; Value = "292304-1 (THM-9)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder Amount"; Value = "9"; VariantName = "[No Variations]"
+Added Component: Designator= 1(DIP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HFD4/5SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator= 2(DIP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HFD4/5SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator= 3(DIP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HFD4/5SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator= 4(DIP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HFD4/5SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator= 5(DIP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HFD4/5SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator= 6(DIP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HFD4/5SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator= 7(DIP-8)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "30/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HFD4/5SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1.2V Pin=MUX1-9
+Added Pin To Net: NetName=+1.2V Pin=XP16-1
+Added Net: Name=+1.2V
+Added Pin To Net: NetName=+1.8VA Pin=MUX1-10
+Added Pin To Net: NetName=+1.8VA Pin=XP17-1
+Added Pin To Net: NetName=+1.8VA Pin=XP51-7
+Added Net: Name=+1.8VA
+Added Pin To Net: NetName=+1.8V Pin=MUX1-8
+Added Pin To Net: NetName=+1.8V Pin=XP14-1
+Added Net: Name=+1.8V
+Added Pin To Net: NetName=+2.5V_offset Pin=MUX1-7
+Added Pin To Net: NetName=+2.5V_offset Pin=XP12-1
+Added Pin To Net: NetName=+2.5V_offset Pin=XP51-5
+Added Net: Name=+2.5V_offset
+Added Pin To Net: NetName=+2.5V Pin=MUX1-6
+Added Pin To Net: NetName=+2.5V Pin=XP13-1
+Added Net: Name=+2.5V
+Added Pin To Net: NetName=+2.048V Pin=MUX1-5
+Added Pin To Net: NetName=+2.048V Pin=XP15-1
+Added Net: Name=+2.048V
+Added Pin To Net: NetName=+3.3V Pin=C12-2
+Added Pin To Net: NetName=+3.3V Pin=C14-2
+Added Pin To Net: NetName=+3.3V Pin=C16-2
+Added Pin To Net: NetName=+3.3V Pin=C35-2
+Added Pin To Net: NetName=+3.3V Pin=C36-2
+Added Pin To Net: NetName=+3.3V Pin=DA2-5
+Added Pin To Net: NetName=+3.3V Pin=DD1-5
+Added Pin To Net: NetName=+3.3V Pin=L2-2
+Added Pin To Net: NetName=+3.3V Pin=R11-2
+Added Pin To Net: NetName=+3.3V Pin=XP40-1
+Added Pin To Net: NetName=+3.3V Pin=XP44-1
+Added Pin To Net: NetName=+3.3V Pin=XP49-4
+Added Pin To Net: NetName=+3.3V Pin=XP49-6
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5.5VAA_double Pin=R26-1
+Added Pin To Net: NetName=+5.5VAA_double Pin=XP10-1
+Added Pin To Net: NetName=+5.5VAA_double Pin=XP51-3
+Added Net: Name=+5.5VAA_double
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=+5V Pin=C18-2
+Added Pin To Net: NetName=+5V Pin=DA3-3
+Added Pin To Net: NetName=+5V Pin=DA4-1
+Added Pin To Net: NetName=+5V Pin=DA5-8
+Added Pin To Net: NetName=+5V Pin=DA6-8
+Added Pin To Net: NetName=+5V Pin=DA8-8
+Added Pin To Net: NetName=+5V Pin=DA9-8
+Added Pin To Net: NetName=+5V Pin=DA10-8
+Added Pin To Net: NetName=+5V Pin=MUX1-1
+Added Pin To Net: NetName=+5V Pin=R22-2
+Added Pin To Net: NetName=+5V Pin=R33-2
+Added Pin To Net: NetName=+5V Pin=R76-1
+Added Pin To Net: NetName=+5V Pin=XS4-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=+6V Pin=C11-2
+Added Pin To Net: NetName=+6V Pin=C13-2
+Added Pin To Net: NetName=+6V Pin=C15-2
+Added Pin To Net: NetName=+6V Pin=C17-2
+Added Pin To Net: NetName=+6V Pin=DA1-5
+Added Pin To Net: NetName=+6V Pin=DA4-2
+Added Pin To Net: NetName=+6V Pin=DA4-7
+Added Pin To Net: NetName=+6V Pin=L1-2
+Added Pin To Net: NetName=+6V Pin=R10-2
+Added Pin To Net: NetName=+6V Pin=VD1-2
+Added Pin To Net: NetName=+6V Pin=VD3-2
+Added Pin To Net: NetName=+6V Pin=VD4-2
+Added Pin To Net: NetName=+6V Pin=VD5-2
+Added Pin To Net: NetName=+6V Pin=VD6-2
+Added Pin To Net: NetName=+6V Pin=VD7-2
+Added Pin To Net: NetName=+6V Pin=VD8-2
+Added Pin To Net: NetName=+6V Pin=XS3-18
+Added Pin To Net: NetName=+6V Pin=XS3-24
+Added Pin To Net: NetName=+6V Pin= 1-1
+Added Pin To Net: NetName=+6V Pin= 2-1
+Added Pin To Net: NetName=+6V Pin= 3-1
+Added Pin To Net: NetName=+6V Pin= 4-1
+Added Pin To Net: NetName=+6V Pin= 5-1
+Added Pin To Net: NetName=+6V Pin= 6-1
+Added Pin To Net: NetName=+6V Pin= 7-1
+Added Net: Name=+6V
+Added Pin To Net: NetName=-6V Pin=XS3-14
+Added Pin To Net: NetName=-6V Pin=XS3-20
+Added Net: Name=-6V
+Added Pin To Net: NetName=A_ADC+ Pin=DA9-1
+Added Pin To Net: NetName=A_ADC+ Pin=R70-2
+Added Pin To Net: NetName=A_ADC+ Pin= 3-7
+Added Net: Name=A_ADC+
+Added Pin To Net: NetName=A_ADC- Pin=DA9-7
+Added Pin To Net: NetName=A_ADC- Pin=R71-2
+Added Pin To Net: NetName=A_ADC- Pin= 3-2
+Added Net: Name=A_ADC-
+Added Pin To Net: NetName=ADC1_IN0 Pin=MUX1-28
+Added Net: Name=ADC1_IN0
+Added Pin To Net: NetName=ADC1_IN1 Pin=DA3-6
+Added Net: Name=ADC1_IN1
+Added Pin To Net: NetName=ADC1_IN4 Pin=R2-2
+Added Pin To Net: NetName=ADC1_IN4 Pin=R3-1
+Added Net: Name=ADC1_IN4
+Added Pin To Net: NetName=ADC1_IN5 Pin=DA10-1
+Added Pin To Net: NetName=ADC1_IN5 Pin=R77-2
+Added Net: Name=ADC1_IN5
+Added Pin To Net: NetName=ADC1_IN6 Pin=C42-2
+Added Pin To Net: NetName=ADC1_IN6 Pin=R80-1
+Added Pin To Net: NetName=ADC1_IN6 Pin=R81-1
+Added Net: Name=ADC1_IN6
+Added Pin To Net: NetName=ADC1_IN7 Pin=C43-2
+Added Pin To Net: NetName=ADC1_IN7 Pin=R82-1
+Added Pin To Net: NetName=ADC1_IN7 Pin=R83-1
+Added Net: Name=ADC1_IN7
+Added Pin To Net: NetName=ADC+ Pin=DA8-1
+Added Pin To Net: NetName=ADC+ Pin=R68-2
+Added Pin To Net: NetName=ADC+ Pin= 5-7
+Added Net: Name=ADC+
+Added Pin To Net: NetName=ADC- Pin=DA8-7
+Added Pin To Net: NetName=ADC- Pin=R69-2
+Added Pin To Net: NetName=ADC- Pin= 5-2
+Added Net: Name=ADC-
+Added Pin To Net: NetName=ADC_ACM_IN Pin=XP24-1
+Added Pin To Net: NetName=ADC_ACM_IN Pin= 3-6
+Added Net: Name=ADC_ACM_IN
+Added Pin To Net: NetName=ADC_ACM_OUT Pin=XP20-1
+Added Pin To Net: NetName=ADC_ACM_OUT Pin= 3-3
+Added Net: Name=ADC_ACM_OUT
+Added Pin To Net: NetName=ADCr_ACM_IN Pin=XP29-1
+Added Pin To Net: NetName=ADCr_ACM_IN Pin= 5-6
+Added Net: Name=ADCr_ACM_IN
+Added Pin To Net: NetName=ADCr_ACM_OUT Pin=XP26-1
+Added Pin To Net: NetName=ADCr_ACM_OUT Pin= 5-3
+Added Net: Name=ADCr_ACM_OUT
+Added Pin To Net: NetName=ChannelA+ Pin=XS3-19
+Added Pin To Net: NetName=ChannelA+ Pin= 3-5
+Added Net: Name=ChannelA+
+Added Pin To Net: NetName=ChannelA- Pin=XS3-23
+Added Pin To Net: NetName=ChannelA- Pin= 3-4
+Added Net: Name=ChannelA-
+Added Pin To Net: NetName=ChannelB+ Pin=XS3-13
+Added Pin To Net: NetName=ChannelB+ Pin= 5-5
+Added Net: Name=ChannelB+
+Added Pin To Net: NetName=ChannelB- Pin=XS3-17
+Added Pin To Net: NetName=ChannelB- Pin= 5-4
+Added Net: Name=ChannelB-
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=DA1-6
+Added Pin To Net: NetName=GND Pin=DA1-10
+Added Pin To Net: NetName=GND Pin=DA1-15
+Added Pin To Net: NetName=GND Pin=DA1-16
+Added Pin To Net: NetName=GND Pin=DA1-17
+Added Pin To Net: NetName=GND Pin=DA2-6
+Added Pin To Net: NetName=GND Pin=DA2-10
+Added Pin To Net: NetName=GND Pin=DA2-15
+Added Pin To Net: NetName=GND Pin=DA2-16
+Added Pin To Net: NetName=GND Pin=DA2-17
+Added Pin To Net: NetName=GND Pin=DA3-1
+Added Pin To Net: NetName=GND Pin=DA3-2
+Added Pin To Net: NetName=GND Pin=DA4-3
+Added Pin To Net: NetName=GND Pin=DA5-4
+Added Pin To Net: NetName=GND Pin=DA6-4
+Added Pin To Net: NetName=GND Pin=DA7-15
+Added Pin To Net: NetName=GND Pin=DA8-4
+Added Pin To Net: NetName=GND Pin=DA9-4
+Added Pin To Net: NetName=GND Pin=DA10-4
+Added Pin To Net: NetName=GND Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=MUX1-12
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R47-1
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=GND Pin=R52-1
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=GND Pin=R54-1
+Added Pin To Net: NetName=GND Pin=R56-1
+Added Pin To Net: NetName=GND Pin=R78-1
+Added Pin To Net: NetName=GND Pin=R81-2
+Added Pin To Net: NetName=GND Pin=R83-2
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=VD3-1
+Added Pin To Net: NetName=GND Pin=VD4-1
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=GND Pin=VD6-1
+Added Pin To Net: NetName=GND Pin=VD7-1
+Added Pin To Net: NetName=GND Pin=VD8-1
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Pin To Net: NetName=GND Pin=VT5-2
+Added Pin To Net: NetName=GND Pin=VT6-2
+Added Pin To Net: NetName=GND Pin=VT7-2
+Added Pin To Net: NetName=GND Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP3-2
+Added Pin To Net: NetName=GND Pin=XP39-1
+Added Pin To Net: NetName=GND Pin=XP40-4
+Added Pin To Net: NetName=GND Pin=XP43-1
+Added Pin To Net: NetName=GND Pin=XP44-4
+Added Pin To Net: NetName=GND Pin=XP49-2
+Added Pin To Net: NetName=GND Pin=XP49-10
+Added Pin To Net: NetName=GND Pin=XP51-2
+Added Pin To Net: NetName=GND Pin=XP51-4
+Added Pin To Net: NetName=GND Pin=XP51-6
+Added Pin To Net: NetName=GND Pin=XP51-8
+Added Pin To Net: NetName=GND Pin=XP51-10
+Added Pin To Net: NetName=GND Pin=XP51-12
+Added Pin To Net: NetName=GND Pin=XP51-14
+Added Pin To Net: NetName=GND Pin=XP51-16
+Added Pin To Net: NetName=GND Pin=XP51-18
+Added Pin To Net: NetName=GND Pin=XP51-19
+Added Pin To Net: NetName=GND Pin=XP51-20
+Added Pin To Net: NetName=GND Pin=XS2-9
+Added Pin To Net: NetName=GND Pin=XS2-10
+Added Pin To Net: NetName=GND Pin=XS3-9
+Added Pin To Net: NetName=GND Pin=XS3-10
+Added Pin To Net: NetName=GND Pin=XS3-15
+Added Pin To Net: NetName=GND Pin=XS3-16
+Added Pin To Net: NetName=GND Pin=XS3-21
+Added Pin To Net: NetName=GND Pin=XS3-22
+Added Pin To Net: NetName=GND Pin=XS4-4
+Added Pin To Net: NetName=GND Pin=XS4-5
+Added Pin To Net: NetName=GND Pin=XS4-6
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_OUTPUT1 Pin=MUX1-17
+Added Pin To Net: NetName=GPIO_OUTPUT1 Pin=R38-2
+Added Net: Name=GPIO_OUTPUT1
+Added Pin To Net: NetName=GPIO_OUTPUT2 Pin=MUX1-16
+Added Pin To Net: NetName=GPIO_OUTPUT2 Pin=R37-2
+Added Net: Name=GPIO_OUTPUT2
+Added Pin To Net: NetName=GPIO_OUTPUT3 Pin=MUX1-15
+Added Pin To Net: NetName=GPIO_OUTPUT3 Pin=R36-2
+Added Net: Name=GPIO_OUTPUT3
+Added Pin To Net: NetName=GPIO_OUTPUT4 Pin=MUX1-14
+Added Pin To Net: NetName=GPIO_OUTPUT4 Pin=R35-2
+Added Net: Name=GPIO_OUTPUT4
+Added Pin To Net: NetName=GPIO_OUTPUT5 Pin=MUX1-18
+Added Pin To Net: NetName=GPIO_OUTPUT5 Pin=R30-1
+Added Net: Name=GPIO_OUTPUT5
+Added Pin To Net: NetName=GPIO_OUTPUT6 Pin=R39-2
+Added Pin To Net: NetName=GPIO_OUTPUT6 Pin=VT2-1
+Added Net: Name=GPIO_OUTPUT6
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=R40-2
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=R41-2
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=R46-2
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=R47-2
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=R48-2
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=VT3-1
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=VT4-1
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=VT5-1
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=VT6-1
+Added Pin To Net: NetName=GPIO_OUTPUT7 Pin=VT7-1
+Added Net: Name=GPIO_OUTPUT7
+Added Pin To Net: NetName=GPIO_OUTPUT8 Pin=R1-2
+Added Pin To Net: NetName=GPIO_OUTPUT8 Pin=VT1-1
+Added Net: Name=GPIO_OUTPUT8
+Added Pin To Net: NetName=GPS_RX Pin=DA7-13
+Added Pin To Net: NetName=GPS_RX Pin=XP33-1
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=DA7-11
+Added Pin To Net: NetName=GPS_TX Pin=XP34-1
+Added Net: Name=GPS_TX
+Added Pin To Net: NetName=Ipower_ACM Pin=R2-1
+Added Pin To Net: NetName=Ipower_ACM Pin=XP2-1
+Added Pin To Net: NetName=Ipower_ACM Pin= 1-3
+Added Net: Name=Ipower_ACM
+Added Pin To Net: NetName=Laser+ Pin=XS3-5
+Added Pin To Net: NetName=Laser+ Pin= 7-5
+Added Net: Name=Laser+
+Added Pin To Net: NetName=Laser- Pin=XS3-7
+Added Pin To Net: NetName=Laser- Pin= 7-4
+Added Net: Name=Laser-
+Added Pin To Net: NetName=Laser_ACM_IN Pin=XP31-1
+Added Pin To Net: NetName=Laser_ACM_IN Pin= 7-6
+Added Net: Name=Laser_ACM_IN
+Added Pin To Net: NetName=Laser_ACM_OUT Pin=XP28-1
+Added Pin To Net: NetName=Laser_ACM_OUT Pin= 7-3
+Added Net: Name=Laser_ACM_OUT
+Added Pin To Net: NetName=Laser_IN Pin=R58-1
+Added Pin To Net: NetName=Laser_IN Pin=R59-1
+Added Pin To Net: NetName=Laser_IN Pin=R65-1
+Added Pin To Net: NetName=Laser_IN Pin=R67-1
+Added Pin To Net: NetName=Laser_IN Pin=R72-1
+Added Pin To Net: NetName=Laser_IN Pin=R73-1
+Added Pin To Net: NetName=Laser_IN Pin= 7-7
+Added Net: Name=Laser_IN
+Added Pin To Net: NetName=Laser_OUT Pin=R72-2
+Added Pin To Net: NetName=Laser_OUT Pin=R74-1
+Added Pin To Net: NetName=Laser_OUT Pin= 7-2
+Added Net: Name=Laser_OUT
+Added Pin To Net: NetName=Meas_+3.3V Pin=C27-2
+Added Pin To Net: NetName=Meas_+3.3V Pin=MUX1-25
+Added Pin To Net: NetName=Meas_+3.3V Pin=R28-2
+Added Pin To Net: NetName=Meas_+3.3V Pin=R29-1
+Added Net: Name=Meas_+3.3V
+Added Pin To Net: NetName=Meas_+4.5V Pin=C23-2
+Added Pin To Net: NetName=Meas_+4.5V Pin=MUX1-23
+Added Pin To Net: NetName=Meas_+4.5V Pin=R20-2
+Added Pin To Net: NetName=Meas_+4.5V Pin=R21-1
+Added Net: Name=Meas_+4.5V
+Added Pin To Net: NetName=Meas_+5.5VAA Pin=C26-2
+Added Pin To Net: NetName=Meas_+5.5VAA Pin=MUX1-24
+Added Pin To Net: NetName=Meas_+5.5VAA Pin=R26-2
+Added Pin To Net: NetName=Meas_+5.5VAA Pin=R27-1
+Added Net: Name=Meas_+5.5VAA
+Added Pin To Net: NetName=Meas_+5.5V Pin=C22-2
+Added Pin To Net: NetName=Meas_+5.5V Pin=MUX1-20
+Added Pin To Net: NetName=Meas_+5.5V Pin=R18-2
+Added Pin To Net: NetName=Meas_+5.5V Pin=R19-1
+Added Net: Name=Meas_+5.5V
+Added Pin To Net: NetName=Meas_+5V_Power Pin=C25-2
+Added Pin To Net: NetName=Meas_+5V_Power Pin=MUX1-22
+Added Pin To Net: NetName=Meas_+5V_Power Pin=R24-2
+Added Pin To Net: NetName=Meas_+5V_Power Pin=R25-1
+Added Net: Name=Meas_+5V_Power
+Added Pin To Net: NetName=Meas_+5V Pin=C20-2
+Added Pin To Net: NetName=Meas_+5V Pin=MUX1-21
+Added Pin To Net: NetName=Meas_+5V Pin=R14-2
+Added Pin To Net: NetName=Meas_+5V Pin=R15-1
+Added Net: Name=Meas_+5V
+Added Pin To Net: NetName=Meas_+6V Pin=C19-2
+Added Pin To Net: NetName=Meas_+6V Pin=MUX1-19
+Added Pin To Net: NetName=Meas_+6V Pin=R12-2
+Added Pin To Net: NetName=Meas_+6V Pin=R13-1
+Added Net: Name=Meas_+6V
+Added Pin To Net: NetName=Meas_-5.5V Pin=C29-2
+Added Pin To Net: NetName=Meas_-5.5V Pin=DA6-1
+Added Pin To Net: NetName=Meas_-5.5V Pin=MUX1-11
+Added Pin To Net: NetName=Meas_-5.5V Pin=R34-2
+Added Net: Name=Meas_-5.5V
+Added Pin To Net: NetName=Meas_-6V Pin=C24-2
+Added Pin To Net: NetName=Meas_-6V Pin=DA5-1
+Added Pin To Net: NetName=Meas_-6V Pin=MUX1-26
+Added Pin To Net: NetName=Meas_-6V Pin=R23-2
+Added Net: Name=Meas_-6V
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=DA1-11
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DA2-11
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=DA1-4
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=DA2-4
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=DA1-3
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=DA1-1
+Added Pin To Net: NetName=NetC9_2 Pin=DA1-2
+Added Pin To Net: NetName=NetC9_2 Pin=L1-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=DA2-3
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=DA2-1
+Added Pin To Net: NetName=NetC10_2 Pin=DA2-2
+Added Pin To Net: NetName=NetC10_2 Pin=L2-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=DA5-3
+Added Pin To Net: NetName=NetC21_2 Pin=R17-2
+Added Pin To Net: NetName=NetC21_2 Pin=R22-1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=DA6-3
+Added Pin To Net: NetName=NetC28_2 Pin=R32-2
+Added Pin To Net: NetName=NetC28_2 Pin=R33-1
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=DA7-5
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=DA7-4
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=DA7-3
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=DA7-1
+Added Net: Name=NetC31_2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=DA7-2
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=C34-2
+Added Pin To Net: NetName=NetC32_2 Pin=DA7-16
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=DA7-6
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-8
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=NetC38_2 Pin=DA10-5
+Added Pin To Net: NetName=NetC38_2 Pin=R76-2
+Added Pin To Net: NetName=NetC38_2 Pin=R78-2
+Added Net: Name=NetC38_2
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=R5-2
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetDA1_9 Pin=DA1-9
+Added Pin To Net: NetName=NetDA1_9 Pin=R8-2
+Added Pin To Net: NetName=NetDA1_9 Pin=R10-1
+Added Net: Name=NetDA1_9
+Added Pin To Net: NetName=NetDA2_7 Pin=DA2-7
+Added Pin To Net: NetName=NetDA2_7 Pin=R6-2
+Added Net: Name=NetDA2_7
+Added Pin To Net: NetName=NetDA2_9 Pin=DA2-9
+Added Pin To Net: NetName=NetDA2_9 Pin=R9-2
+Added Pin To Net: NetName=NetDA2_9 Pin=R11-1
+Added Net: Name=NetDA2_9
+Added Pin To Net: NetName=NetDA3_5 Pin=DA3-5
+Added Pin To Net: NetName=NetDA3_5 Pin=R7-2
+Added Pin To Net: NetName=NetDA3_5 Pin= 1-4
+Added Net: Name=NetDA3_5
+Added Pin To Net: NetName=NetDA5_2 Pin=DA5-2
+Added Pin To Net: NetName=NetDA5_2 Pin=R16-2
+Added Pin To Net: NetName=NetDA5_2 Pin=R23-1
+Added Net: Name=NetDA5_2
+Added Pin To Net: NetName=NetDA6_2 Pin=DA6-2
+Added Pin To Net: NetName=NetDA6_2 Pin=R31-2
+Added Pin To Net: NetName=NetDA6_2 Pin=R34-1
+Added Net: Name=NetDA6_2
+Added Pin To Net: NetName=NetDA8_2 Pin=DA8-2
+Added Pin To Net: NetName=NetDA8_2 Pin=R64-1
+Added Pin To Net: NetName=NetDA8_2 Pin=R68-1
+Added Net: Name=NetDA8_2
+Added Pin To Net: NetName=NetDA8_3 Pin=DA8-3
+Added Pin To Net: NetName=NetDA8_3 Pin=R58-2
+Added Pin To Net: NetName=NetDA8_3 Pin=R60-1
+Added Net: Name=NetDA8_3
+Added Pin To Net: NetName=NetDA8_5 Pin=DA8-5
+Added Pin To Net: NetName=NetDA8_5 Pin=R62-1
+Added Net: Name=NetDA8_5
+Added Pin To Net: NetName=NetDA8_6 Pin=DA8-6
+Added Pin To Net: NetName=NetDA8_6 Pin=R65-2
+Added Pin To Net: NetName=NetDA8_6 Pin=R69-1
+Added Net: Name=NetDA8_6
+Added Pin To Net: NetName=NetDA9_2 Pin=DA9-2
+Added Pin To Net: NetName=NetDA9_2 Pin=R66-1
+Added Pin To Net: NetName=NetDA9_2 Pin=R70-1
+Added Net: Name=NetDA9_2
+Added Pin To Net: NetName=NetDA9_3 Pin=DA9-3
+Added Pin To Net: NetName=NetDA9_3 Pin=R59-2
+Added Pin To Net: NetName=NetDA9_3 Pin=R61-1
+Added Net: Name=NetDA9_3
+Added Pin To Net: NetName=NetDA9_5 Pin=DA9-5
+Added Pin To Net: NetName=NetDA9_5 Pin=R63-1
+Added Net: Name=NetDA9_5
+Added Pin To Net: NetName=NetDA9_6 Pin=DA9-6
+Added Pin To Net: NetName=NetDA9_6 Pin=R67-2
+Added Pin To Net: NetName=NetDA9_6 Pin=R71-1
+Added Net: Name=NetDA9_6
+Added Pin To Net: NetName=NetDA10_2 Pin=DA10-2
+Added Pin To Net: NetName=NetDA10_2 Pin=R73-2
+Added Pin To Net: NetName=NetDA10_2 Pin=R77-1
+Added Net: Name=NetDA10_2
+Added Pin To Net: NetName=NetDA10_3 Pin=DA10-3
+Added Pin To Net: NetName=NetDA10_3 Pin=R74-2
+Added Pin To Net: NetName=NetDA10_3 Pin=R75-1
+Added Net: Name=NetDA10_3
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=XS4-3
+Added Net: Name=NetDD1_1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=XS4-2
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_4 Pin=R56-2
+Added Net: Name=NetDD1_4
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_6 Pin=R57-1
+Added Net: Name=NetDD1_6
+Added Pin To Net: NetName=NetDD1_7 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_7 Pin=R55-1
+Added Net: Name=NetDD1_7
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT1-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=VD1-3
+Added Pin To Net: NetName=NetR4_2 Pin= 1-8
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=XP4-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=XP5-1
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=XP6-1
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=XP7-1
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=XP8-1
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=NetR31_1 Pin=XP50-1
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=VT2-3
+Added Net: Name=NetR42_1
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=VD3-3
+Added Pin To Net: NetName=NetR42_2 Pin= 2-8
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_1 Pin=VT3-3
+Added Net: Name=NetR43_1
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=VD4-3
+Added Pin To Net: NetName=NetR43_2 Pin= 3-8
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR44_1 Pin=VT4-3
+Added Net: Name=NetR44_1
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=VD5-3
+Added Pin To Net: NetName=NetR44_2 Pin= 4-8
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=NetR45_1 Pin= 4-7
+Added Net: Name=NetR45_1
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin= 4-2
+Added Net: Name=NetR45_2
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetR49_1 Pin=VT5-3
+Added Net: Name=NetR49_1
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=VD6-3
+Added Pin To Net: NetName=NetR49_2 Pin= 5-8
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=VT6-3
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=VD7-3
+Added Pin To Net: NetName=NetR50_2 Pin= 6-8
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=VT7-3
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=VD8-3
+Added Pin To Net: NetName=NetR51_2 Pin= 7-8
+Added Net: Name=NetR51_2
+Added Pin To Net: NetName=NetVD2_1 Pin=VD2-1
+Added Pin To Net: NetName=NetVD2_1 Pin=XP3-1
+Added Net: Name=NetVD2_1
+Added Pin To Net: NetName=NetXP38_1 Pin=XP38-1
+Added Pin To Net: NetName=NetXP38_1 Pin=XS2-2
+Added Net: Name=NetXP38_1
+Added Pin To Net: NetName=Peltie+ Pin=XS3-2
+Added Pin To Net: NetName=Peltie+ Pin= 6-5
+Added Net: Name=Peltie+
+Added Pin To Net: NetName=Peltie- Pin=XS3-1
+Added Pin To Net: NetName=Peltie- Pin= 6-4
+Added Net: Name=Peltie-
+Added Pin To Net: NetName=Peltie_ACM_IN Pin=XP30-1
+Added Pin To Net: NetName=Peltie_ACM_IN Pin= 6-6
+Added Net: Name=Peltie_ACM_IN
+Added Pin To Net: NetName=Peltie_ACM_OUT Pin=XP27-1
+Added Pin To Net: NetName=Peltie_ACM_OUT Pin= 6-3
+Added Net: Name=Peltie_ACM_OUT
+Added Pin To Net: NetName=Peltie_IN Pin=C39-1
+Added Pin To Net: NetName=Peltie_IN Pin=C41-2
+Added Pin To Net: NetName=Peltie_IN Pin=R79-1
+Added Pin To Net: NetName=Peltie_IN Pin=R82-2
+Added Pin To Net: NetName=Peltie_IN Pin= 6-7
+Added Net: Name=Peltie_IN
+Added Pin To Net: NetName=Peltie_OUT Pin=C40-1
+Added Pin To Net: NetName=Peltie_OUT Pin=C41-1
+Added Pin To Net: NetName=Peltie_OUT Pin=R79-2
+Added Pin To Net: NetName=Peltie_OUT Pin=R80-2
+Added Pin To Net: NetName=Peltie_OUT Pin= 6-2
+Added Net: Name=Peltie_OUT
+Added Pin To Net: NetName=Power Pin=C1-2
+Added Pin To Net: NetName=Power Pin=C2-2
+Added Pin To Net: NetName=Power Pin=C3-2
+Added Pin To Net: NetName=Power Pin=DA1-12
+Added Pin To Net: NetName=Power Pin=DA1-13
+Added Pin To Net: NetName=Power Pin=DA1-14
+Added Pin To Net: NetName=Power Pin=DA2-12
+Added Pin To Net: NetName=Power Pin=DA2-13
+Added Pin To Net: NetName=Power Pin=DA2-14
+Added Pin To Net: NetName=Power Pin=DA3-4
+Added Pin To Net: NetName=Power Pin=R7-1
+Added Pin To Net: NetName=Power Pin=VD2-2
+Added Net: Name=Power
+Added Pin To Net: NetName=R1_IN Pin=XP23-1
+Added Pin To Net: NetName=R1_IN Pin=XP51-11
+Added Pin To Net: NetName=R1_IN Pin= 2-6
+Added Net: Name=R1_IN
+Added Pin To Net: NetName=R1_OUT Pin=R28-1
+Added Pin To Net: NetName=R1_OUT Pin=XP11-1
+Added Pin To Net: NetName=R1_OUT Pin=XP18-1
+Added Pin To Net: NetName=R1_OUT Pin=XP51-1
+Added Pin To Net: NetName=R1_OUT Pin=XP51-13
+Added Pin To Net: NetName=R1_OUT Pin= 2-5
+Added Net: Name=R1_OUT
+Added Pin To Net: NetName=R22_IN Pin=XP22-1
+Added Pin To Net: NetName=R22_IN Pin=XP51-15
+Added Pin To Net: NetName=R22_IN Pin= 2-3
+Added Net: Name=R22_IN
+Added Pin To Net: NetName=R22_OUT Pin=R24-1
+Added Pin To Net: NetName=R22_OUT Pin=XP9-1
+Added Pin To Net: NetName=R22_OUT Pin=XP19-1
+Added Pin To Net: NetName=R22_OUT Pin=XP51-9
+Added Pin To Net: NetName=R22_OUT Pin=XP51-17
+Added Pin To Net: NetName=R22_OUT Pin= 2-4
+Added Net: Name=R22_OUT
+Added Pin To Net: NetName=RS232_RX Pin=DA7-8
+Added Pin To Net: NetName=RS232_RX Pin=XP36-1
+Added Net: Name=RS232_RX
+Added Pin To Net: NetName=RS232_TX Pin=DA7-10
+Added Pin To Net: NetName=RS232_TX Pin=XP35-1
+Added Net: Name=RS232_TX
+Added Pin To Net: NetName=RX_N Pin=XP42-1
+Added Pin To Net: NetName=RX_N Pin=XS2-6
+Added Net: Name=RX_N
+Added Pin To Net: NetName=RX_P Pin=XP37-1
+Added Pin To Net: NetName=RX_P Pin=XS2-3
+Added Net: Name=RX_P
+Added Pin To Net: NetName=SWCLK Pin=XP40-3
+Added Pin To Net: NetName=SWCLK Pin=XP44-9
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=XP40-2
+Added Pin To Net: NetName=SWDIO Pin=XP44-7
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TCK Pin=R52-2
+Added Pin To Net: NetName=TCK Pin=XP45-1
+Added Pin To Net: NetName=TCK Pin=XP49-1
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDI Pin=R54-2
+Added Pin To Net: NetName=TDI Pin=XP48-1
+Added Pin To Net: NetName=TDI Pin=XP49-9
+Added Net: Name=TDI
+Added Pin To Net: NetName=TDO Pin=XP47-1
+Added Pin To Net: NetName=TDO Pin=XP49-3
+Added Net: Name=TDO
+Added Pin To Net: NetName=Termistor+ Pin=XS3-4
+Added Pin To Net: NetName=Termistor+ Pin= 4-5
+Added Net: Name=Termistor+
+Added Pin To Net: NetName=Termistor- Pin=XS3-3
+Added Pin To Net: NetName=Termistor- Pin= 4-4
+Added Net: Name=Termistor-
+Added Pin To Net: NetName=TMS Pin=R53-2
+Added Pin To Net: NetName=TMS Pin=XP46-1
+Added Pin To Net: NetName=TMS Pin=XP49-5
+Added Net: Name=TMS
+Added Pin To Net: NetName=TR_ACM_IN Pin=XP25-1
+Added Pin To Net: NetName=TR_ACM_IN Pin= 4-6
+Added Net: Name=TR_ACM_IN
+Added Pin To Net: NetName=TR_ACM_OUT Pin=XP21-1
+Added Pin To Net: NetName=TR_ACM_OUT Pin= 4-3
+Added Net: Name=TR_ACM_OUT
+Added Pin To Net: NetName=TX_P Pin=XP41-1
+Added Pin To Net: NetName=TX_P Pin=XS2-1
+Added Net: Name=TX_P
+Added Pin To Net: NetName=USART1_RX Pin=DA7-7
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=DA7-9
+Added Net: Name=USART1_TX
+Added Pin To Net: NetName=USART2_RX Pin=R57-2
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=R55-2
+Added Net: Name=USART2_TX
+Added Pin To Net: NetName=USART6_RX Pin=DA7-14
+Added Net: Name=USART6_RX
+Added Pin To Net: NetName=USART6_TX Pin=DA7-12
+Added Net: Name=USART6_TX
+Added Pin To Net: NetName=Vref Pin=DA10-6
+Added Pin To Net: NetName=Vref Pin=DA10-7
+Added Pin To Net: NetName=Vref Pin=R60-2
+Added Pin To Net: NetName=Vref Pin=R61-2
+Added Pin To Net: NetName=Vref Pin=R62-2
+Added Pin To Net: NetName=Vref Pin=R63-2
+Added Pin To Net: NetName=Vref Pin=R64-2
+Added Pin To Net: NetName=Vref Pin=R66-2
+Added Pin To Net: NetName=Vref Pin=R75-2
+Added Net: Name=Vref
+Added Class: Name=Check_Laser
+Added Class: Name=Connectors
+Added Class: Name=ControlPoint
+Added Class: Name=Peltie
+Added Class: Name=Power
+Added Class: Name=Rele
+Added Class: Name=STM
+Added Room: Name=Check_Laser
+Added Room: Name=Connectors
+Added Room: Name=ControlPoint
+Added Room: Name=Peltie
+Added Room: Name=Power
+Added Room: Name=Rele
+Added Room: Name=STM
