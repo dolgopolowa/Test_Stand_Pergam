@@ -1,0 +1,14 @@
+Added Component: Designator=XP49(PLS-2)
+Add component (AddParameter): Name = "Added_by"; Value = "irdolgopolowa@yandex.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cable/Wire"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "29/10/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part"; Value = "KNP300JB-52-3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Terminals"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Laser_IN Pin=XP49-1
+Added Pin To Net: NetName=Laser_OUT Pin=XP49-2
+Added Member To Class: ClassName=Check_Laser Member=Component XP49 3R
