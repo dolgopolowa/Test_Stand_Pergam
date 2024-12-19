@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=+3.3V Pin=C25-2
+Added Pin To Net: NetName=+3.3V Pin=C27-2
+Added Pin To Net: NetName=+3.3V Pin=DA6-16
+Added Member To Class: ClassName=Peltie Member=Component C33 1uF
+Added Room: Name=Check_Laser
+Added Room: Name=Connectors
+Added Room: Name=ControlPoint
+Added Room: Name=Peltie
+Added Room: Name=Power
+Added Room: Name=Rele
+Added Room: Name=STM

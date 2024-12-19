@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ADC1_IN1 Pin=DA2-6
+Removed Pin From Net: NetName=ADC1_IN5 Pin=MUX1-28
+Added Pin To Net: NetName=ADC1_IN5 Pin=DA2-6
+Added Pin To Net: NetName=ADC1_IN1 Pin=MUX1-28
