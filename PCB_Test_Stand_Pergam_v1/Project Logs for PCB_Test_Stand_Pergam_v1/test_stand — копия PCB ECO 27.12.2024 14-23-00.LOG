@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=-6V Pin=R14-1
+Added Pin To Net: NetName=-6V Pin=XP5-1
+Added Member To Class: ClassName=STM Member=Component XP33 PA
+Added Room: Name=Check_Laser
+Added Room: Name=Connectors
+Added Room: Name=ControlPoint
+Added Room: Name=Peltie
+Added Room: Name=Power
+Added Room: Name=Rele
+Added Room: Name=STM
