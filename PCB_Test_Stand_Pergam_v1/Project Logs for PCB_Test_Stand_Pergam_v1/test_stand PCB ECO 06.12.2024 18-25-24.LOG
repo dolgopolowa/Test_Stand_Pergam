@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=TCK Pin=XP40-1
-Change Component Designator: OldDesignator=K1 NewDesignator=Ê1
-Change Component Designator: OldDesignator=K2 NewDesignator=Ê2
-Change Component Designator: OldDesignator=K3 NewDesignator=Ê3
-Change Component Designator: OldDesignator=K4 NewDesignator=Ê4
-Change Component Designator: OldDesignator=K5 NewDesignator=Ê5
-Change Component Designator: OldDesignator=K6 NewDesignator=Ê6
-Change Component Designator: OldDesignator=K7 NewDesignator=Ê7
-Added Pin To Net: NetName=RX_GND Pin=XP40-1

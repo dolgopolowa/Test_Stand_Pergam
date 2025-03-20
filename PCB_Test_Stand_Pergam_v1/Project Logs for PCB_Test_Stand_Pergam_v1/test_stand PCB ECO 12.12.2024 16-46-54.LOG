@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=+3.3V Pin=XP49-1
-Removed Pin From Net: NetName=RX_GND Pin=XP49-4
-Removed Pin From Net: NetName=SWDIO Pin=XP49-7
-Removed Pin From Net: NetName=SWCLK Pin=XP49-9
-Removed Member From Class: ClassName=Connectors Member=XP49

@@ -1,0 +1,10 @@
+Output: PNP
+Type  : BOM
+From  : Project [PCB_Test_Stand_Pergam_v1.PrjPcb]
+   Generated File[PNP-PCB_Test_Stand_Pergam_v1.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:16:51 On 20.03.2025

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=ADC1_IN5 Pin=DA9-1
-Removed Pin From Net: NetName=ADC1_IN0 Pin=MUX1-28
-Removed Pin From Net: NetName=ADC1_IN5 Pin=R81-2
-Added Pin To Net: NetName=ADC1_IN0 Pin=DA9-1
-Added Pin To Net: NetName=ADC1_IN5 Pin=MUX1-28
-Added Pin To Net: NetName=ADC1_IN0 Pin=R81-2
