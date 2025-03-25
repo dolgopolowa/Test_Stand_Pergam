@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [test_stand.PcbDoc]
+   Generated File[test_stand.GTO]
+   Generated File[test_stand.GTP]
+   Generated File[test_stand.GTS]
+   Generated File[test_stand.GTL]
+   Generated File[test_stand.GBL]
+   Generated File[test_stand.GBS]
+   Generated File[test_stand.GBO]
+   Generated File[test_stand.GM4]
+   Generated File[test_stand.GKO]
+   Generated File[test_stand.RUL]
+   Generated File[test_stand.EXTREP]
+   Generated File[test_stand.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:44:42 On 25.03.2025
