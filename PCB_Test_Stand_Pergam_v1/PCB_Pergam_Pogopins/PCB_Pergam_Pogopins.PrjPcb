@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJKULUVG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Pergam_Pogopins\Design Rule Check - Pogopins.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
