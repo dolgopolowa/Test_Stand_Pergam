@@ -109,6 +109,14 @@ DocumentUniqueId=GJKULUVG
 DocumentPath=Project Outputs for PCB_Pergam_Pogopins\Design Rule Check - Pogopins.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Test_Stand_Pergam.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Test_Stand_Pergam.rep
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
